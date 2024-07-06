@@ -97,4 +97,3 @@ public class Tic_Tac_Toe {
 
 
 
-//Arrays are objects in Java. The default value of character array is /u0000  /u means unicode java follows unicode format
